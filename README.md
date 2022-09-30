@@ -19,13 +19,13 @@
 1. **_Clone the repository_**
 
 ```sh
-$ git clone [https://github.com/AbdelrahmanTolba/deploy-udagram]
+$ git clone https://github.com/AbdelrahmanTolba/Udagram-app-deploy.git
 ```
 
 2. **_Navigate to repository directory_**
 
 ```sh
-$ cd deploy-udagram
+$ cd Udagram-app-deploy
 ```
 
 3. **_Install dependencies_**
