@@ -16,4 +16,4 @@
 
 ## Schema
 
-![App structure diagram](https://user-images.githubusercontent.com/90225424/193346019-b3048ab5-9e7e-4d0f-90d3-46f5e20b60e9.png)
+![Infrastructure diagram](https://user-images.githubusercontent.com/90225424/193349478-20ea51f3-761e-406c-9b93-5f8f094ab462.png)
