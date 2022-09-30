@@ -1,6 +1,7 @@
 # Pipeline Process
 
-The pipeline is setup and connected with this GitHub repository in CircleCI.
+1. Push the update to this repo to main branch
+2. CircleCI graps the code and deploys it to aws
 
 ## Order of commands
 
