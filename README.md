@@ -14,15 +14,6 @@
 - [S3](https://s3.console.aws.amazon.com/s3/get-started?region=us-east-1)
 - [Elastic Beanstalk](https://us-east-1.console.aws.amazon.com/elasticbeanstalk/home?region=us-east-1#/welcome)
 
-# App Dependencies
-
-The project was built with
-
-- Node v14.15.0
-- Angular v8.2.14
-- AWS CLI 2.7.35
-- EB CLI 3.20.3
-
 # Getting Started
 
 1. **_Clone the repository_**
