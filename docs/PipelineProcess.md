@@ -12,4 +12,5 @@
 
 ## Schema
 
-![Pipline-diagram](https://user-images.githubusercontent.com/90225424/193321902-0f8134e2-38f3-445f-8006-845292f6ab8d.png)
+![circlecli-diagram](https://user-images.githubusercontent.com/90225424/193379161-03d140ca-f69c-4bf6-bf81-c18832bcbcda.png)
+
